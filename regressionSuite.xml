@@ -5,8 +5,6 @@
 		<classes>
 			<class name="tests.UserRegistrationTestWithJavaFaker" />
 			<class name="tests.ProductHoverMenuTest" />
-			<class name="tests.SearchProductTest" />
-			<class name="tests.AddProductToShoppingCartTest" />
 		</classes>
 	</test>
 </suite> 
